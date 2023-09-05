@@ -1,0 +1,30 @@
+
+.title,
+.subtitle{
+    color: black;
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-content: center;
+}
+.recipe-list,
+.instructions{
+    background-color: grey;
+    color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.picture{
+    height: auto;
+    width: 300px;
+}
+
+.subtitle{
+    font-size: 24px;
+}
+.instructions{
+    color: blue;
+}
